@@ -9,10 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vladimirponomarev/authentication-in-react-apps.git"
+    "url": "https://github.com/OssamaMahmoud/MERN-Auth.git"
   },
-  "author": "Vladimir Ponomarev",
-  "license": "MIT",
+  "author": "OssamaMahmoud",
   "dependencies": {
     "bcrypt": "^1.0.1",
     "body-parser": "^1.15.2",
